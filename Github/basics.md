@@ -36,3 +36,4 @@ GITHUB BASICS
 
  ## Miscellaneous
   - Status (git status)
+  - Clonar un repositori, primero estar en la carpeta donde se quiere tener el repositori(git clone URL)
