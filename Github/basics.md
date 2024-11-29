@@ -30,5 +30,9 @@ GITHUB BASICS
   - Merge branches, from the branch that you want the changes to be done (git merge new_feature)
   - Delete branch (git branch -d new_branch)
 
+ ## Pull/Push
+  - For a Pull(git fetch origin main | git rebase -i origin/main)
+  - Push to the online repository (git push origin main)
+
  ## Miscellaneous
   - Status (git status)
